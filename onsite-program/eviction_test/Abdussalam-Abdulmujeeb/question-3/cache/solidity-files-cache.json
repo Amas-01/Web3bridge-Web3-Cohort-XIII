@@ -1,0 +1,42 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\Akore\\Documents\\Web3\\Web3bridge-Web3-Cohort-XIII\\onsite-program\\eviction_test\\Abdussalam-Abdulmujeeb\\question-3\\contracts\\Ludo.sol": {
+      "lastModificationDate": 1755543720760,
+      "contentHash": "55028242138a5bb18fc389107e1bd472",
+      "sourceName": "contracts/Ludo.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.28"
+      ],
+      "artifacts": [
+        "IToken",
+        "SimpleLudo"
+      ]
+    }
+  }
+}

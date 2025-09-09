@@ -1,0 +1,149 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\Akore\\Documents\\Web3\\Web3bridge-Web3-Cohort-XIII\\onsite-program\\eviction_test\\Abdussalam-Abdulmujeeb\\question-2\\contracts\\Interfaces\\IERC20.sol": {
+      "lastModificationDate": 1755534002367,
+      "contentHash": "62eb2dfe489e282e6558ebc42959845c",
+      "sourceName": "contracts/Interfaces/IERC20.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "IERC20"
+      ]
+    },
+    "C:\\Users\\Akore\\Documents\\Web3\\Web3bridge-Web3-Cohort-XIII\\onsite-program\\eviction_test\\Abdussalam-Abdulmujeeb\\question-2\\contracts\\Interfaces\\IUNISWAPV2FACTORY.sol": {
+      "lastModificationDate": 1755534304844,
+      "contentHash": "c5f8395950671339b64f878d87851fae",
+      "sourceName": "contracts/Interfaces/IUNISWAPV2FACTORY.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.5.0"
+      ],
+      "artifacts": [
+        "IUniswapV2Factory"
+      ]
+    },
+    "C:\\Users\\Akore\\Documents\\Web3\\Web3bridge-Web3-Cohort-XIII\\onsite-program\\eviction_test\\Abdussalam-Abdulmujeeb\\question-2\\contracts\\Interfaces\\IUNISWAPV2PAIR.sol": {
+      "lastModificationDate": 1755534324613,
+      "contentHash": "bda4ef9dd983b1c11f277486880a3382",
+      "sourceName": "contracts/Interfaces/IUNISWAPV2PAIR.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.5.0"
+      ],
+      "artifacts": [
+        "IUniswapV2Pair"
+      ]
+    },
+    "C:\\Users\\Akore\\Documents\\Web3\\Web3bridge-Web3-Cohort-XIII\\onsite-program\\eviction_test\\Abdussalam-Abdulmujeeb\\question-2\\contracts\\Interfaces\\IUniswapV2Router01.sol": {
+      "lastModificationDate": 1755534348351,
+      "contentHash": "020402498fe671f324875d8c8cb2270d",
+      "sourceName": "contracts/Interfaces/IUniswapV2Router01.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.6.2"
+      ],
+      "artifacts": [
+        "IUniswapV2Router01"
+      ]
+    }
+  }
+}
